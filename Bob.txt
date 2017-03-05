@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-chocolate pizza
-=======
-healthy pizza
->>>>>>> test_branch
+healthy chocolate pizza
