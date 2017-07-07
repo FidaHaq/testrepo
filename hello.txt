@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 blah blah blah
-=======
 gfhgfhgfhhffghgfhfhgfh
->>>>>>> origin/addingStuff
+
